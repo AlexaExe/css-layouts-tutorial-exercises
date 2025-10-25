@@ -1,4 +1,20 @@
-/* your code here */
+/* COPIAR SOLUCIÓN AL NOTION */
+.wrapper{
+margin: 10px;
+}
+
+.secondWrapper {
+	display: flex;
+	gap: 10px;
+	}
+
+section {
+	width: 80%;
+}
+
+nav{
+	width: 20%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
